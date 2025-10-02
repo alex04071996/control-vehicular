@@ -116,7 +116,7 @@
                 </flux:navlist.item>
             </flux:navlist>
         </flux:sidebar>
-
+        
         {{ $slot }}
 
         @fluxScripts
